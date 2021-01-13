@@ -29,6 +29,7 @@ header {
 .contenedor {
     width: 98%;
     margin: auto;
+    
 }
 
 h1 {
@@ -48,6 +49,12 @@ section {
     text-align: center;
 }
 
+#blog {
+  /*  margin-right: 50px; */
+  margin-top: 40px;
+  text-align: center;
+    /* margin-left: 60px; */
+}
 footer .contenedor {
     display: flex;
     flex-wrap: wrap;
